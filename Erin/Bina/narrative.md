@@ -63,13 +63,14 @@ from a previous marriage? Clifford M. Church (1888 - 1906) died at age 17 in Hav
 
 
 ## Caroline 
-born: 
-married: George W. Littlefield 
+born: March 1837, NH
+married: George W. Littlefield (1838 - )
 
 ## Children
-1. Frank H. 1859 (1880, 21, sailor)  
+1. Franklin H. 1859 (1880, 21, sailor)  
+1. Annie G. 1860-? (not in 1880 census)
 1. Helen M. 1862  
-1. Ida O. 1865  
+1. Ida O. 1865  (m. Dicker)
 1. Mary A. 1870  
 1. Carrie J. 1874  
 1. Edeth M. 1876 (?, relationship column in 1880 C. is blank)  
@@ -79,4 +80,11 @@ married: George W. Littlefield
 
 * In 1880, Helen (18), Ida (15), and Mary (10) were not attending school. Carrie (6) and Edeth (4), were.
 
+* In 1900, Caroline lived with her daughter Ida Dicker (37) and son Roland (22) in New London, CT. She was widowed and had 6 living children.
 
+## Places of residence
+* 1860 - Town of Wells, York, Maine
+* 1880 - Kittery, York, Maine
+* 1900 - Groton township, New London, CT
+
+* Mother's birthplace Maine. Father's NH.
