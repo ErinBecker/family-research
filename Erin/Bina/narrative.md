@@ -1,8 +1,8 @@
 # Erin's family narrative (Maternal)
 
 ## Rosemary Bina
-born: 
-married: Gordon Lynch
+born:   
+married: Gordon Lynch  
 
 ### Children
 1. Katherine Anne
@@ -14,9 +14,9 @@ married: Gordon Lynch
 
 
 ## Helen Cook
-born: 1918
-married: Aloysius Bina
-died: 
+born: 1918  
+married: Aloysius Bina  
+died:  
 
 ### Children
 1. 
@@ -32,25 +32,25 @@ died:
 
 ## Julia A. Gray
 born:  
-married: 
-divorced:
-died:
+married:  
+divorced:  
+died:  
 
 ### Children
 ### Places of residence
 
 ## Helen Marie Littlefield
-born: 16 March 1862, Maine
-married: ~1884, James Barton Gray Sr. (1860 - 1951)
-died: 1900 (age 38)
-burial: Ledyard, New London, CT
+born: 16 March 1862, Maine  
+married: ~1884, James Barton Gray Sr. (1860 - 1951)  
+died: 1900 (age 38)  
+burial: Ledyard, New London, CT  
 
 ### Children
 ### Places of residence
 1880 Census - Kittery, York, Maine
 
 
-
+### Notes
 
 James Barton Gray Sr. married again - Mary Abby Littlefield (1869 - 1927)
 Mary was a widow. First marriage 28 Sep 1893 to James Monroe Church Jr. He had a son
