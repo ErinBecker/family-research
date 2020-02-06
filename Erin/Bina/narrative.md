@@ -47,7 +47,10 @@ burial: Ledyard, New London, CT
 
 
 ### Records
-* [1880 Census](https://www.familysearch.org/ark:/61903/1:1:MFQH-BL6)
+* 1880 Census
+	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MFQH-BL6) 
+	* [page 1](4-Littlefield/1880-census-original-Helen-M-Littlefield.jpg) 
+	* [page 2](4-Littlefield/1880-census-original-p2-Helen-M-Littlefield.jpg)
 
 ![1880 Census screenshot page 1](4-Littlefield/1880-census-partial-Helen-M-Littlefield.png)
 ![1880 Census screenshot page 2](4-Littlefield/1880-census-p2-partial-Helen-M-Littlefield.png)
