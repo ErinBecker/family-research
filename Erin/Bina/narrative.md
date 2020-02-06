@@ -39,6 +39,24 @@ died:
 ### Children
 ### Places of residence
 
+### Records
+
+* 1900 Census
+	* [FamilySearch link]()
+	* [image](3-Gray/Julia-Gray-1900-census-original.jpg)
+
+![1900 Census screenshot](3-Gray/1900-census-partial-Julia-Gray.png)
+
+* 1910 Census
+	* [FamilySearch link]()
+	* [image](3-Gray/Julia-Gray-1910-census-original.jpg)
+
+In 1910, Julia lived with her husband Frederick two doors down from her father,
+his new wife Mary, her brothers Charles (17) and Frederick (12), and half-brothers James (6), Calvin (3), and George (2 mo).
+
+![1910 Census screenshot](3-Gray/1910-census-partial-Julia-Gray.png)
+
+
 ## Helen Marie Littlefield
 born: 16 March 1862, Maine  
 married: ~1884, James Barton Gray Sr. (1860 - 1951)  
@@ -61,13 +79,6 @@ burial: Ledyard, New London, CT
 	* [image](3-Gray/Julia-Gray-1900-census-original.jpg)
 
 ![1900 Census screenshot](3-Gray/1900-census-partial-Julia-Gray.png)
-
-* 1910 Census
-	* [FamilySearch link]()
-	* [image](3-Gray/Julia-Gray-1910-census-original.jpg)
-
-![1910 Census screenshot]()
-
 
 
 
