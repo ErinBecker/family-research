@@ -47,6 +47,7 @@ burial: Ledyard, New London, CT
 
 
 ### Records
+
 * 1880 Census
 	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MFQH-BL6) 
 	* [image (page 1)](4-Littlefield/1880-census-original-Helen-M-Littlefield.jpg) 
@@ -55,9 +56,24 @@ burial: Ledyard, New London, CT
 ![1880 Census screenshot page 1](4-Littlefield/1880-census-partial-Helen-M-Littlefield.png)
 ![1880 Census screenshot page 2](4-Littlefield/1880-census-p2-partial-Helen-M-Littlefield.png)
 
+* 1900 Census
+	* [FamilySearch link]()
+	* [image](3-Gray/Julia-Gray-1900-census-original.jpg)
+
+![1900 Census screenshot](3-Gray/1900-census-partial-Julia-Gray.png)
+
+* 1910 Census
+	* [FamilySearch link]()
+	* [image](3-Gray/Julia-Gray-1910-census-original.jpg)
+
+![1910 Census screenshot]()
+
+
 
 
 ### Children
+
+
 ### Places of residence
 * 1880 Census - Kittery, York, Maine
 
@@ -77,6 +93,8 @@ from a previous marriage? Clifford M. Church (1888 - 1906) died at age 17 in Hav
 ## Caroline 
 born: March 1837, NH  
 married: George W. Littlefield (1838 - )
+died:  
+burial:  
 
 ### Records
 
@@ -97,7 +115,7 @@ married: George W. Littlefield (1838 - )
 
 ### Children
 1. Franklin H. 1859 (1880, 21, sailor)  
-1. Annie G. 1860-? (not in 1880 census)
+1. Annie G. 1860-? (not in 1880 census, probably married?)
 1. Helen M. 1862  
 1. Ida O. 1865  (m. Dicker)
 1. Mary A. 1870  
@@ -105,7 +123,7 @@ married: George W. Littlefield (1838 - )
 1. Edeth M. 1876 (?, relationship column in 1880 C. is blank)  
 1. Roland H. 1878  
 
-* Also in home at 1880 Census was Frank H. Smith (age 2), grandson - although all children are marked as single (not married, widowed or divorced.)
+* Also in home at 1880 Census was Frank H. Smith (age 2), grandson - although all children are marked as single (not married, widowed or divorced).
 
 * In 1880, Helen (18), Ida (15), and Mary (10) were not attending school. Carrie (6) and Edeth (4), were.
 
@@ -113,7 +131,9 @@ married: George W. Littlefield (1838 - )
 
 ## Places of residence
 * 1860 - Town of Wells, York, Maine
+* 1970 - 
 * 1880 - Kittery, York, Maine
+* 1890 - 
 * 1900 - Groton township, New London, CT
 
 * Mother's birthplace Maine. Father's NH.
