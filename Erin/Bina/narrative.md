@@ -72,14 +72,18 @@ his new wife Mary, her brothers Charles (17) and Frederick (12), and half-brothe
 	* [FamilySearch link]()
 	* [Census page](3-Gray/Julia-Gray-1930-census.jpg)
 
-![1920 Census screenshot](3-Gray/1930-census-partial-Julia-Gray.png)
+By 1930, Julia had divorced her husband and was living with their children and another family.
+
+![1930 Census screenshot](3-Gray/1930-census-partial-Julia-Gray.png)
 
 
 * 1940 Census
 	* [FamilySearch link]()
 	* [Census page](3-Gray/Julia-Gray-1940-census.jpg)
 
-![1920 Census screenshot](3-Gray/1940-census-partial-Julia-Gray.png)
+In 1940, Julia was living with her oldest son James in what appears to be an apartment complex.
+
+![1940 Census screenshot](3-Gray/1940-census-partial-Julia-Gray.png)
 
 ## Helen Marie Littlefield
 born: 16 March 1862, Maine  
