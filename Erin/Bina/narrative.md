@@ -84,7 +84,7 @@ married: George W. Littlefield (1838 - )
 	* [FamilySearch Link](https://www.familysearch.org/ark:/61903/1:1:MDCS-F3K)
 	* [image](4-Littlefield/1860-census-original-Caroline-Littlefield.jpg)
 
-![1860 Census screenshot](4-Littlefield/1860-census-partial-Caroline-Littlefield)
+![1860 Census screenshot](4-Littlefield/1860-census-partial-Caroline-Littlefield.png)
 
 * 1880 Census
 	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MFQH-BL6) 
