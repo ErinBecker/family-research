@@ -31,31 +31,55 @@ died:
 
 
 ## Julia A. Gray
-born:  
+born: 1889  
 married:  
 divorced:  
 died:  
 
 ### Children
+1. 
+1. 
+1. 
+
+
 ### Places of residence
+* 
 
 ### Records
 
 * 1900 Census
 	* [FamilySearch link]()
-	* [image](3-Gray/Julia-Gray-1900-census-original.jpg)
+	* [Census page](3-Gray/Julia-Gray-1900-census-original.jpg)
 
 ![1900 Census screenshot](3-Gray/1900-census-partial-Julia-Gray.png)
 
 * 1910 Census
 	* [FamilySearch link]()
-	* [image](3-Gray/Julia-Gray-1910-census-original.jpg)
+	* [Census page](3-Gray/Julia-Gray-1910-census-original.jpg)
 
 In 1910, Julia lived with her husband Frederick two doors down from her father,
 his new wife Mary, her brothers Charles (17) and Frederick (12), and half-brothers James (6), Calvin (3), and George (2 mo).
 
 ![1910 Census screenshot](3-Gray/1910-census-partial-Julia-Gray.png)
 
+* 1920 Census
+	* [FamilySearch link]()
+	* [Census page](3-Gray/Julia-Gray-1920-census-original.jpg)
+
+![1920 Census screenshot](3-Gray/1920-census-partial-Julia-Gray.png)
+
+* 1930 Census
+	* [FamilySearch link]()
+	* [Census page](3-Gray/Julia-Gray-1930-census.jpg)
+
+![1920 Census screenshot](3-Gray/1930-census-partial-Julia-Gray.png)
+
+
+* 1940 Census
+	* [FamilySearch link]()
+	* [Census page](3-Gray/Julia-Gray-1940-census.jpg)
+
+![1920 Census screenshot](3-Gray/1940-census-partial-Julia-Gray.png)
 
 ## Helen Marie Littlefield
 born: 16 March 1862, Maine  
