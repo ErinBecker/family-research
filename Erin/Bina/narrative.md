@@ -49,8 +49,8 @@ burial: Ledyard, New London, CT
 ### Records
 * 1880 Census
 	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MFQH-BL6) 
-	* [page 1](4-Littlefield/1880-census-original-Helen-M-Littlefield.jpg) 
-	* [page 2](4-Littlefield/1880-census-original-p2-Helen-M-Littlefield.jpg)
+	* [image (page 1)](4-Littlefield/1880-census-original-Helen-M-Littlefield.jpg) 
+	* [image (page 2)](4-Littlefield/1880-census-original-p2-Helen-M-Littlefield.jpg)
 
 ![1880 Census screenshot page 1](4-Littlefield/1880-census-partial-Helen-M-Littlefield.png)
 ![1880 Census screenshot page 2](4-Littlefield/1880-census-p2-partial-Helen-M-Littlefield.png)
@@ -59,7 +59,7 @@ burial: Ledyard, New London, CT
 
 ### Children
 ### Places of residence
-1880 Census - Kittery, York, Maine
+* 1880 Census - Kittery, York, Maine
 
 
 ### Notes
@@ -75,10 +75,27 @@ from a previous marriage? Clifford M. Church (1888 - 1906) died at age 17 in Hav
 
 
 ## Caroline 
-born: March 1837, NH
+born: March 1837, NH  
 married: George W. Littlefield (1838 - )
 
-## Children
+### Records
+
+* 1860 Census
+	* [FamilySearch Link](https://www.familysearch.org/ark:/61903/1:1:MDCS-F3K)
+	* [image](4-Littlefield/1860-census-original-Caroline-Littlefield.jpg)
+
+![1860 Census screenshot](4-Littlefield/1860-census-partial-Caroline-Littlefield)
+
+* 1880 Census
+	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MFQH-BL6) 
+	* [image (page 1)](4-Littlefield/1880-census-original-Helen-M-Littlefield.jpg) 
+	* [image (page 2)](4-Littlefield/1880-census-original-p2-Helen-M-Littlefield.jpg)
+
+![1880 Census screenshot page 1](4-Littlefield/1880-census-partial-Helen-M-Littlefield.png)
+![1880 Census screenshot page 2](4-Littlefield/1880-census-p2-partial-Helen-M-Littlefield.png)
+
+
+### Children
 1. Franklin H. 1859 (1880, 21, sailor)  
 1. Annie G. 1860-? (not in 1880 census)
 1. Helen M. 1862  
