@@ -1,36 +1,91 @@
 # Erin's family narrative (Maternal)
 
-## Rosemary Bina (--> Lynch)
-born:   
-married: Gordon Lynch  
-
-### Children
-1. Katherine Anne
-1. Erin Alison
-1. Zachary Adam
-
-### Places of residence
-
-
-
-## Helen Cook (--> Bina)
-born: 1918  
-married: Aloysius Bina  
+## Caroline ?? (--> Littlefield)
+born: March 1837, NH  
+married: George W. Littlefield (1838 - )
 died:  
+burial:  
+
+### Records
+
+* 1860 Census
+	* [FamilySearch Link](https://www.familysearch.org/ark:/61903/1:1:MDCS-F3K)
+	* [image](4-Littlefield/1860-census-original-Caroline-Littlefield.jpg)
+
+![1860 Census screenshot](4-Littlefield/1860-census-partial-Caroline-Littlefield.png)
+
+* 1880 Census
+	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MFQH-BL6) 
+	* [image (page 1)](4-Littlefield/1880-census-original-Helen-M-Littlefield.jpg) 
+	* [image (page 2)](4-Littlefield/1880-census-original-p2-Helen-M-Littlefield.jpg)
+
+![1880 Census screenshot page 1](4-Littlefield/1880-census-partial-Helen-M-Littlefield.png)
+![1880 Census screenshot page 2](4-Littlefield/1880-census-p2-partial-Helen-M-Littlefield.png)
+
 
 ### Children
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
+1. Franklin H. 1859 (1880, 21, sailor)  
+1. Annie G. 1860-? (not in 1880 census, probably married?)
+1. Helen M. 1862  
+1. Ida O. 1865  (m. Dicker)
+1. Mary A. 1870  
+1. Carrie J. 1874  
+1. Edeth M. 1876 (?, relationship column in 1880 C. is blank)  
+1. Roland H. 1878  
+
+* Also in home at 1880 Census was Frank H. Smith (age 2), grandson - although all children are marked as single (not married, widowed or divorced).
+
+* In 1880, Helen (18), Ida (15), and Mary (10) were not attending school. Carrie (6) and Edeth (4), were.
+
+* In 1900, Caroline lived with her daughter Ida Dicker (37) and son Roland (22) in New London, CT. She was widowed and had 6 living children.
+
+## Places of residence
+* 1860 - Town of Wells, York, Maine
+* 1970 - 
+* 1880 - Kittery, York, Maine
+* 1890 - 
+* 1900 - Groton township, New London, CT
+
+* Mother's birthplace Maine. Father's NH.
+
+## Helen Marie Littlefield (--> Gray)
+born: 16 March 1862, Maine  
+married: ~1884, James Barton Gray Sr. (May 1860 - 1951)  
+died: 1900 (age 38)  
+burial: Ledyard, New London, CT  
+
+
+### Records
+
+* 1880 Census
+	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MFQH-BL6) 
+	* [image (page 1)](4-Littlefield/1880-census-original-Helen-M-Littlefield.jpg) 
+	* [image (page 2)](4-Littlefield/1880-census-original-p2-Helen-M-Littlefield.jpg)
+
+![1880 Census screenshot page 1](4-Littlefield/1880-census-partial-Helen-M-Littlefield.png)
+![1880 Census screenshot page 2](4-Littlefield/1880-census-p2-partial-Helen-M-Littlefield.png)
+
+* 1900 Census
+	* [FamilySearch link]()
+	* [image](3-Gray/Julia-Gray-1900-census-original.jpg)
+
+![1900 Census screenshot](3-Gray/1900-census-partial-Julia-Gray.png)
+
+
+### Children
+1. Betsy L. (Sept 1884 - )
+1. Bertha F. (Oct 1885 - )
+1. Alba A. (Dec 1887 - )
+1. Julia A. (Oct 1889 - )
+1. Charles A. (Aug 1892 - )
+1. Fred (June 1897 - )
 
 ### Places of residence
-* 1920 - Franklin Town, New London, CT (farm)
-* 1930 - 39 Spruce Street, Norwich Town, Norwich City, New London, CT
-* 1940 - 
+* 1880 Census - Kittery, York, Maine
+
+
+### Notes
+
 
 ## Julia A. Gray (--> Cook)
 born: 1889  
@@ -99,89 +154,35 @@ In 1940, Julia was living with her oldest son James in what appears to be an apa
 
 ![1940 Census screenshot](3-Gray/1940-census-partial-Julia-Gray.png)
 
-## Helen Marie Littlefield (--> Gray)
-born: 16 March 1862, Maine  
-married: ~1884, James Barton Gray Sr. (May 1860 - 1951)  
-died: 1900 (age 38)  
-burial: Ledyard, New London, CT  
 
-
-### Records
-
-* 1880 Census
-	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MFQH-BL6) 
-	* [image (page 1)](4-Littlefield/1880-census-original-Helen-M-Littlefield.jpg) 
-	* [image (page 2)](4-Littlefield/1880-census-original-p2-Helen-M-Littlefield.jpg)
-
-![1880 Census screenshot page 1](4-Littlefield/1880-census-partial-Helen-M-Littlefield.png)
-![1880 Census screenshot page 2](4-Littlefield/1880-census-p2-partial-Helen-M-Littlefield.png)
-
-* 1900 Census
-	* [FamilySearch link]()
-	* [image](3-Gray/Julia-Gray-1900-census-original.jpg)
-
-![1900 Census screenshot](3-Gray/1900-census-partial-Julia-Gray.png)
-
+## Helen Cook (--> Bina)
+born: 1918  
+married: Aloysius Bina  
+died:  
 
 ### Children
-1. Betsy L. (Sept 1884 - )
-1. Bertha F. (Oct 1885 - )
-1. Alba A. (Dec 1887 - )
-1. Julia A. (Oct 1889 - )
-1. Charles A. (Aug 1892 - )
-1. Fred (June 1897 - )
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
 
 ### Places of residence
-* 1880 Census - Kittery, York, Maine
+* 1920 - Franklin Town, New London, CT (farm)
+* 1930 - 39 Spruce Street, Norwich Town, Norwich City, New London, CT
+* 1940 - 
 
 
-### Notes
-
-
-## Caroline ?? (--> Littlefield)
-born: March 1837, NH  
-married: George W. Littlefield (1838 - )
-died:  
-burial:  
-
-### Records
-
-* 1860 Census
-	* [FamilySearch Link](https://www.familysearch.org/ark:/61903/1:1:MDCS-F3K)
-	* [image](4-Littlefield/1860-census-original-Caroline-Littlefield.jpg)
-
-![1860 Census screenshot](4-Littlefield/1860-census-partial-Caroline-Littlefield.png)
-
-* 1880 Census
-	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MFQH-BL6) 
-	* [image (page 1)](4-Littlefield/1880-census-original-Helen-M-Littlefield.jpg) 
-	* [image (page 2)](4-Littlefield/1880-census-original-p2-Helen-M-Littlefield.jpg)
-
-![1880 Census screenshot page 1](4-Littlefield/1880-census-partial-Helen-M-Littlefield.png)
-![1880 Census screenshot page 2](4-Littlefield/1880-census-p2-partial-Helen-M-Littlefield.png)
-
+## Rosemary Bina (--> Lynch)
+born:   
+married: Gordon Lynch  
 
 ### Children
-1. Franklin H. 1859 (1880, 21, sailor)  
-1. Annie G. 1860-? (not in 1880 census, probably married?)
-1. Helen M. 1862  
-1. Ida O. 1865  (m. Dicker)
-1. Mary A. 1870  
-1. Carrie J. 1874  
-1. Edeth M. 1876 (?, relationship column in 1880 C. is blank)  
-1. Roland H. 1878  
+1. Katherine Anne
+1. Erin Alison
+1. Zachary Adam
 
-* Also in home at 1880 Census was Frank H. Smith (age 2), grandson - although all children are marked as single (not married, widowed or divorced).
+### Places of residence
 
-* In 1880, Helen (18), Ida (15), and Mary (10) were not attending school. Carrie (6) and Edeth (4), were.
-
-* In 1900, Caroline lived with her daughter Ida Dicker (37) and son Roland (22) in New London, CT. She was widowed and had 6 living children.
-
-## Places of residence
-* 1860 - Town of Wells, York, Maine
-* 1970 - 
-* 1880 - Kittery, York, Maine
-* 1890 - 
-* 1900 - Groton township, New London, CT
-
-* Mother's birthplace Maine. Father's NH.
