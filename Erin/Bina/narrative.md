@@ -1,6 +1,6 @@
 # Erin's family narrative (Maternal)
 
-## Rosemary Bina
+## Rosemary Bina (--> Lynch)
 born:   
 married: Gordon Lynch  
 
@@ -13,7 +13,7 @@ married: Gordon Lynch
 
 
 
-## Helen Cook
+## Helen Cook (--> Bina)
 born: 1918  
 married: Aloysius Bina  
 died:  
@@ -28,22 +28,30 @@ died:
 1. 
 
 ### Places of residence
+* 1920 - Franklin Town, New London, CT (farm)
+* 1930 - 39 Spruce Street, Norwich Town, Norwich City, New London, CT
+* 1940 - 
 
-
-## Julia A. Gray
+## Julia A. Gray (--> Cook)
 born: 1889  
 married:  
 divorced:  
 died:  
 
 ### Children
-1. 
-1. 
-1. 
+1. James F. (1911 - ) 
+1. Arthur G. (1913 - )
+1. Florence E. (1916 - ) 
+1. Helen M. (1918 - )
+1. Ruth A. (1919 - )
 
 
 ### Places of residence
-* 
+* 1900 -  
+* 1910 - 
+* 1920 - Franklin Town, New London, CT (farm)
+* 1930 - 39 Spruce Street, Norwich Town, Norwich City, New London, CT
+* 1940 - 45 Main Street, Norwich, New London, CT
 
 ### Records
 
@@ -76,18 +84,24 @@ By 1930, Julia had divorced her husband and was living with their children and a
 
 ![1930 Census screenshot](3-Gray/1930-census-partial-Julia-Gray.png)
 
+Frederick was living on a farm in Montville Town. Both Julia and Frederick claimed the oldest two sons on their 1930 census. 
+
+	* [FamilySearch link]()
+	* [Census page](../2-Cook/Fredrick-Cook-1930-census.jpg)
+
+![1930 Census screenshot Frederick](../2-Cook/1930-census-partial-Frederick-Cook.png)
 
 * 1940 Census
 	* [FamilySearch link]()
 	* [Census page](3-Gray/Julia-Gray-1940-census.jpg)
 
-In 1940, Julia was living with her oldest son James in what appears to be an apartment complex.
+In 1940, Julia was living with her oldest son James in what appears to be an apartment complex. Rent was $7.00 per month.
 
 ![1940 Census screenshot](3-Gray/1940-census-partial-Julia-Gray.png)
 
-## Helen Marie Littlefield
+## Helen Marie Littlefield (--> Gray)
 born: 16 March 1862, Maine  
-married: ~1884, James Barton Gray Sr. (1860 - 1951)  
+married: ~1884, James Barton Gray Sr. (May 1860 - 1951)  
 died: 1900 (age 38)  
 burial: Ledyard, New London, CT  
 
@@ -109,9 +123,13 @@ burial: Ledyard, New London, CT
 ![1900 Census screenshot](3-Gray/1900-census-partial-Julia-Gray.png)
 
 
-
 ### Children
-
+1. Betsy L. (Sept 1884 - )
+1. Bertha F. (Oct 1885 - )
+1. Alba A. (Dec 1887 - )
+1. Julia A. (Oct 1889 - )
+1. Charles A. (Aug 1892 - )
+1. Fred (June 1897 - )
 
 ### Places of residence
 * 1880 Census - Kittery, York, Maine
@@ -119,17 +137,8 @@ burial: Ledyard, New London, CT
 
 ### Notes
 
-James Barton Gray Sr. married again - Mary Abby Littlefield (1869 - 1927)
-Mary was a widow. First marriage 28 Sep 1893 to James Monroe Church Jr. He had a son
-from a previous marriage? Clifford M. Church (1888 - 1906) died at age 17 in Haverhill, MA.
 
-1862 - Helen Marie Littlefield born  
-1884 - Helen marries James Barton Gray Sr.   
-??? children  
-1900 - Helen dies (age 38)  
-
-
-## Caroline 
+## Caroline ?? (--> Littlefield)
 born: March 1837, NH  
 married: George W. Littlefield (1838 - )
 died:  
