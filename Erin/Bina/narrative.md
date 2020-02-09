@@ -2,42 +2,54 @@
 
 ## Caroline ?? (--> Littlefield)
 born: March 1837, NH  
-married: George W. Littlefield (1838 - )
+married: Nov 12, 1857 to George W. Littlefield (1838 - )  
 died:  
 burial:  
 
 ### Records
 
+* 1857 Marriage Record
+	* [FamilySearch Link](https://www.familysearch.org/tree/person/sources/L4HZ-6BC)
+	* [record image](5-Tibbetts/Tibbetts-Littlefield-marriage-1857.jpg)
+
+![Tibbetts marriage record](5-Tibbetts/Tibbetts-Littlefield-marriage-partial)
+
 * 1860 Census
 	* [FamilySearch Link](https://www.familysearch.org/ark:/61903/1:1:MDCS-F3K)
-	* [image](4-Littlefield/1860-census-original-Caroline-Littlefield.jpg)
+	* [census page](4-Littlefield/1860-census-original-Caroline-Littlefield.jpg)
 
 ![1860 Census screenshot](4-Littlefield/1860-census-partial-Caroline-Littlefield.png)
 
 * 1880 Census
 	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MFQH-BL6) 
-	* [image (page 1)](4-Littlefield/1880-census-original-Helen-M-Littlefield.jpg) 
-	* [image (page 2)](4-Littlefield/1880-census-original-p2-Helen-M-Littlefield.jpg)
+	* [census page 1)](4-Littlefield/1880-census-original-Helen-M-Littlefield.jpg) 
+	* [census page 2](4-Littlefield/1880-census-original-p2-Helen-M-Littlefield.jpg)
 
 ![1880 Census screenshot page 1](4-Littlefield/1880-census-partial-Helen-M-Littlefield.png)
 ![1880 Census screenshot page 2](4-Littlefield/1880-census-p2-partial-Helen-M-Littlefield.png)
 
 
+In 1900, Caroline (63) was widowed and living with her daughter Ida Dicker (37) and son Roland H Littlefield (22). 
+
+* 1900 Census
+	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:M97D-YGG)
+	* [census page](4-Littlefield/1900-census-Caroline-Littlefield-original.jpg)
+
+![1900 Census screenshot](4-Littlefield/1900-census-partial-Caroline-Littlefield.png)
+
 ### Children
 1. Franklin H. 1859 (1880, 21, sailor)  
-1. Annie G. 1860-? (not in 1880 census, probably married?)
-1. Helen M. 1862  
-1. Ida O. 1865  (m. Dicker)
-1. Mary A. 1870  
-1. Carrie J. 1874  
-1. Edeth M. 1876 (?, relationship column in 1880 C. is blank)  
-1. Roland H. 1878  
+1. Annie G. (1860-?) (not in 1880 census, probably married?)
+1. Helen M. (1862 - )  
+1. Ida O. (July 1865 - )  (m. Dicker)
+1. Mary A. (1870 - )  
+1. Carrie J. (1874 - ) 
+1. Edeth M. (1876 - ) (?, relationship column in 1880 C. is blank)  
+1. Roland H. (March 1878 - )  
 
 * Also in home at 1880 Census was Frank H. Smith (age 2), grandson - although all children are marked as single (not married, widowed or divorced).
 
 * In 1880, Helen (18), Ida (15), and Mary (10) were not attending school. Carrie (6) and Edeth (4), were.
-
-* In 1900, Caroline lived with her daughter Ida Dicker (37) and son Roland (22) in New London, CT. She was widowed and had 6 living children.
 
 ## Places of residence
 * 1860 - Town of Wells, York, Maine
@@ -59,15 +71,15 @@ burial: Ledyard, New London, CT
 
 * 1880 Census
 	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MFQH-BL6) 
-	* [image (page 1)](4-Littlefield/1880-census-original-Helen-M-Littlefield.jpg) 
-	* [image (page 2)](4-Littlefield/1880-census-original-p2-Helen-M-Littlefield.jpg)
+	* [census page 1](4-Littlefield/1880-census-original-Helen-M-Littlefield.jpg) 
+	* [census page 2](4-Littlefield/1880-census-original-p2-Helen-M-Littlefield.jpg)
 
 ![1880 Census screenshot page 1](4-Littlefield/1880-census-partial-Helen-M-Littlefield.png)
 ![1880 Census screenshot page 2](4-Littlefield/1880-census-p2-partial-Helen-M-Littlefield.png)
 
 * 1900 Census
 	* [FamilySearch link]()
-	* [image](3-Gray/Julia-Gray-1900-census-original.jpg)
+	* [census page](3-Gray/Julia-Gray-1900-census-original.jpg)
 
 ![1900 Census screenshot](3-Gray/1900-census-partial-Julia-Gray.png)
 
