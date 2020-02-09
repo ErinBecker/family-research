@@ -12,7 +12,7 @@ burial:
 	* [FamilySearch Link](https://www.familysearch.org/tree/person/sources/L4HZ-6BC)
 	* [record image](5-Tibbetts/Tibbetts-Littlefield-marriage-1857.jpg)
 
-![Tibbetts marriage record](5-Tibbetts/Tibbetts-Littlefield-marriage-partial)
+![Tibbetts marriage record](5-Tibbetts/Tibbetts-Littlefield-marriage-partial.png)
 
 * 1860 Census
 	* [FamilySearch Link](https://www.familysearch.org/ark:/61903/1:1:MDCS-F3K)
