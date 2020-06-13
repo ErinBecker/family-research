@@ -1,6 +1,6 @@
 # Erin's family narrative (Maternal)
 
-## Caroline ?? (--> Littlefield)
+## Caroline Tibbetts (--> Littlefield)
 born: March 1837, NH  
 married: Nov 12, 1857 to George W. Littlefield (1838 - )  
 died:  
@@ -154,9 +154,9 @@ By 1930, Julia had divorced her husband and was living with their children and a
 Frederick was living on a farm in Montville Town. Both Julia and Frederick claimed the oldest two sons on their 1930 census. 
 
 	* [FamilySearch link]()
-	* [Census page](../2-Cook/Fredrick-Cook-1930-census.jpg)
+	* [Census page](/2-Cook/Fredrick-Cook-1930-census.jpg)
 
-![1930 Census screenshot Frederick](../2-Cook/1930-census-partial-Frederick-Cook.png)
+![1930 Census screenshot Frederick](/2-Cook/1930-census-partial-Frederick-Cook.png)
 
 * 1940 Census
 	* [FamilySearch link]()
