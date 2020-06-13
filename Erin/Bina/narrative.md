@@ -14,11 +14,20 @@ burial:
 
 ![Tibbetts marriage record](5-Tibbetts/Tibbetts-Littlefield-marriage-partial.png)
 
+Three years after their marriage, Caroline and George had two children, a son Franklin (2 years) and a daughter, Annie G. (2 months). 
+
 * 1860 Census
 	* [FamilySearch Link](https://www.familysearch.org/ark:/61903/1:1:MDCS-F3K)
 	* [census page](4-Littlefield/1860-census-original-Caroline-Littlefield.jpg)
 
 ![1860 Census screenshot](4-Littlefield/1860-census-partial-Caroline-Littlefield.png)
+
+At the time of the 1880 census, Caroline and George were living with seven of their children - Frank H (21), Helen M (18), Ida O (15), 
+Mary A (10), Carrie J (6), Edeth M (4), and Roland H (2). Annie G, who would have been 20 years old, was not listed in their household.
+A grandson, two-year old Frank H. Smith, is also part of their household. Helen and Ida are marked as single (not married, widowed, or
+divorced). Did Annie marry a Smith and die in childbirth? Where is the father? 
+
+At this time, only Carrie and Edeth were in school.
 
 * 1880 Census
 	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MFQH-BL6) 
@@ -46,10 +55,6 @@ In 1900, Caroline (63) was widowed and living with her daughter Ida Dicker (37) 
 1. Carrie J. (1874 - ) 
 1. Edeth M. (1876 - ) (?, relationship column in 1880 C. is blank)  
 1. Roland H. (March 1878 - )  
-
-* Also in home at 1880 Census was Frank H. Smith (age 2), grandson - although all children are marked as single (not married, widowed or divorced).
-
-* In 1880, Helen (18), Ida (15), and Mary (10) were not attending school. Carrie (6) and Edeth (4), were.
 
 ## Places of residence
 * 1860 - Town of Wells, York, Maine
