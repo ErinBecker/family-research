@@ -8,6 +8,21 @@ burial:
 
 ### Records
 
+* 1850 Census
+	There is a Caroline Tibbetts, age 14 living in the household of a John Horn (2nd?, a manufacturer) and Jane Horn along with their two daughters(?) Martha J 
+	and Helen M Horn in Somersworth, Strafford, New Hampshire. Also in the household is a Charles H. Shackford (25), who is a physician. Caroline is shown as born in NH. 
+	Relationships are not listed in the 1850 Census. Possibly Caroline is a servant or nanny for the two girls, age 6 and 4. Charles is likely a boarder. Note that Caroline
+	names a daughter Helen M. 
+	
+	* [Family Search Link](https://www.familysearch.org/ark:/61903/3:1:S3HY-DZZQ-1RH?i=49&cc=1401638&personaUrl=%2Fark%3A%2F61903%2F1%3A1%3AMWZL-BNS)
+	* [census page]()
+
+* 1850 Census (George W.)
+	* [FamilySearch Link](https://www.familysearch.org/ark:/61903/1:1:MWZZ-VST)
+	* [census page](https://www.familysearch.org/ark:/61903/3:1:S3HT-DH2Q-K8F?i=16&cc=1401638&personaUrl=%2Fark%3A%2F61903%2F1%3A1%3AMWZZ-VST)
+
+At the age of 13, George W. P. Littlefield was living with parents John (45, farmer) and Charlotte (41) Littlefield in Alton, Belknap, New Hampshire.
+
 * 1857 Marriage Record
 	* [FamilySearch Link](https://www.familysearch.org/tree/person/sources/L4HZ-6BC)
 	* [record image](5-Tibbetts/Tibbetts-Littlefield-marriage-1857.jpg)
