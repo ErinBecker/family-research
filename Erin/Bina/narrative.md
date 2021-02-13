@@ -1,6 +1,6 @@
 # Erin's family narrative (Maternal)
 
-## Caroline Tibbetts (--> Littlefield)
+## [Caroline Tibbetts](https://www.familysearch.org/tree/person/details/L4HZ-6BC) (--> Littlefield)
 born: March 1837, NH  
 married: Nov 12, 1857 to George W. Littlefield (1838 - )  
 died:  
@@ -12,7 +12,7 @@ burial:
 	There is a Caroline Tibbetts, age 14 living in the household of a John Horn (2nd?, a manufacturer) and Jane Horn along with their two daughters(?) Martha J 
 	and Helen M Horn in Somersworth, Strafford, New Hampshire. Also in the household is a Charles H. Shackford (25), who is a physician. Caroline is shown as born in NH. 
 	Relationships are not listed in the 1850 Census. Possibly Caroline is a servant or nanny for the two girls, age 6 and 4. Charles is likely a boarder. Note that Caroline
-	names a daughter Helen M. 
+	names a daughter Helen M. Also, son Roland H's middle initial is for Horn! 
 	
 	* [Family Search Link](https://www.familysearch.org/ark:/61903/3:1:S3HY-DZZQ-1RH?i=49&cc=1401638&personaUrl=%2Fark%3A%2F61903%2F1%3A1%3AMWZL-BNS)
 	* [census page](5-Tibbetts/Tibbetts-in-Horn-household-1850.png)
