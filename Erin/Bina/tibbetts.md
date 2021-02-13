@@ -1,8 +1,8 @@
-Rosemary Bina
-Helen Cook
-Julia Gray
-Helen Littlefield
-Caroline Tibbetts
+Rosemary Bina - confident
+Helen Cook - confident
+Julia Gray - confident
+Helen Littlefield - confident
+Caroline Tibbetts - confident
 Charles Tibbetts 
 Jebediah Tibbetts
 Stephen Samuel Tibbetts

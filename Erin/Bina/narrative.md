@@ -67,7 +67,7 @@ In 1900, Caroline (63) was widowed and living with her daughter Ida Dicker (37) 
 	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MH8X-5G4)
 	* [census page](5-Tibbetts/Tibbetts-Carolina-1920.png)
 
-In 1920, Caroline (Carolina A.) lived with her daughters Mary (L?) Ayers (56) and Anne Hodgdon (51), both widowed at 21 4th Street, Dover, Strafford, New Hampshire. Carolina's age is listed as 85 and 3/4. Census is dated 9-10 January. 
+In 1920, Caroline (Carolina A.) lived with her daughters Mary (L?) Ayers (56) and Anne Hodgdon (51), both widowed at 21 4th Street, Dover, Strafford, New Hampshire. Carolina's age is listed as 85 and 3/4. Census is dated 9-10 January. I'm not sure this is her. Daughters' ages don't match up. This appears to be a different Caroline/a, who was married to a Frederie(?) Tibbetts [1910 census](https://www.familysearch.org/ark:/61903/1:1:MLZX-6PN). 
 
 ![1920 Census screenshot](5-Tibbetts/Tibbetts-Carolina-1920-partial.png)
 
