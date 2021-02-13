@@ -15,7 +15,9 @@ burial:
 	names a daughter Helen M. 
 	
 	* [Family Search Link](https://www.familysearch.org/ark:/61903/3:1:S3HY-DZZQ-1RH?i=49&cc=1401638&personaUrl=%2Fark%3A%2F61903%2F1%3A1%3AMWZL-BNS)
-	* [census page]()
+	* [census page](5-Tibbetts/Tibbetts-in-Horn-household-1850.png)
+	
+![Tibbets in Horn household](5-Tibbetts/Tibbetts-in-Horn-household-1850-partial.png)
 
 * 1850 Census (George W.)
 	* [FamilySearch Link](https://www.familysearch.org/ark:/61903/1:1:MWZZ-VST)
