@@ -1,6 +1,160 @@
 # Erin's family narrative (Maternal)
 
-## [Caroline Tibbetts](https://www.familysearch.org/tree/person/details/L4HZ-6BC) (--> Littlefield)
+
+## Rosemary Bina (--> Lynch) - mother
+born: 
+married: Gordon Lynch  
+
+### Children
+1. Katherine Anne
+1. Erin Alison
+1. Zachary Adam
+
+### Places of residence
+
+------------------
+
+## Helen Cook (--> Bina) - grandmother
+born: 1918  
+married: Aloysius Francis Bina (b. Ridgeway, Connecticut)
+died:  
+
+### Children
+1.
+1. 
+1. Margaret Shirley (b. February 2, 1939 in Davenport Iowa [birth record](1-Bina/Margaret-Bina-birth-record.jpg))
+1. 
+1. 
+1. Matthew Charles (b. October 4, 1950 in Chisago, Minnesota (record number 1950-MN-040195))
+1. David James (b. February 4, 1952 in Chisago, Minnesota (record number 1952-MN-052009))
+1. Michael John (b. April 24, 1953 in Chisago, Minnesota (record number 1953-MN-033718))
+1. Daniel Robert (b. January 11, 1956 in Chisago, Minnesota (record number 1956-MN-016398))
+1. Raymond Paul (b. February 5, 1957 in Chisago, Minnesota (record number 1957-MN-022462))
+1. Rosemary Louise (b. October 20, 1958 in Chisago, Minnesota (record number 1958-MN-018720))
+1. Mark Anthony (b. June 12, 1960 in Chisago, Minnesota (record number 1960-MN-029091))
+
+### Places of residence
+* 1920 - Franklin Town, New London, CT (farm)
+* 1930 - 39 Spruce Street, Norwich Town, Norwich City, New London, CT
+* 1940 - 
+* 
+
+
+At the time of Margaret's birth, Helen lived at 1814 Central Avenue, Davenport, Iowa. Birth was at Mercy Hospital. Full-term. Aloysius' occupation listed as W.P.A. for past 7 months. Helen listed as housewife. Delivery was spontaneous, at 6am.
+
+[Raymond's death record](1-Bina/Raymond-Bina-death-record.jpg)
+
+------------------
+
+## Julia A. Gray (--> Cook) - great-grandmother
+born: 1889  
+married:  
+divorced:  
+died:  
+
+### Children
+1. James F. (1911 - ) 
+1. Arthur G. (1913 - )
+1. Florence E. (1916 - ) 
+1. Helen M. (1918 - )
+1. Ruth A. (1919 - )
+
+
+### Places of residence
+* 1900 -  
+* 1910 - 
+* 1920 - Franklin Town, New London, CT (farm)
+* 1930 - 39 Spruce Street, Norwich Town, Norwich City, New London, CT
+* 1940 - 45 Main Street, Norwich, New London, CT
+
+### Records
+
+* 1900 Census
+	* [FamilySearch link]()
+	* [Census page](3-Gray/Julia-Gray-1900-census-original.jpg)
+
+![1900 Census screenshot](3-Gray/1900-census-partial-Julia-Gray.png)
+
+* 1910 Census
+	* [FamilySearch link]()
+	* [Census page](3-Gray/Julia-Gray-1910-census-original.jpg)
+
+In 1910, Julia lived with her husband Frederick two doors down from her father,
+his new wife Mary, her brothers Charles (17) and Frederick (12), and half-brothers James (6), Calvin (3), and George (2 mo).
+
+![1910 Census screenshot](3-Gray/1910-census-partial-Julia-Gray.png)
+
+* 1920 Census
+	* [FamilySearch link]()
+	* [Census page](3-Gray/Julia-Gray-1920-census-original.jpg)
+
+![1920 Census screenshot](3-Gray/1920-census-partial-Julia-Gray.png)
+
+* 1930 Census
+	* [FamilySearch link]()
+	* [Census page](3-Gray/Julia-Gray-1930-census.jpg)
+
+By 1930, Julia had divorced her husband and was living with their children and another family.
+
+![1930 Census screenshot](3-Gray/1930-census-partial-Julia-Gray.png)
+
+Frederick was living on a farm in Montville Town. Both Julia and Frederick claimed the oldest two sons on their 1930 census. 
+
+	* [FamilySearch link]()
+	* [Census page](/2-Cook/Fredrick-Cook-1930-census.jpg)
+
+![1930 Census screenshot Frederick](/2-Cook/1930-census-partial-Frederick-Cook.png)
+
+* 1940 Census
+	* [FamilySearch link]()
+	* [Census page](3-Gray/Julia-Gray-1940-census.jpg)
+
+In 1940, Julia was living with her oldest son James in what appears to be an apartment complex. Rent was $7.00 per month.
+
+![1940 Census screenshot](3-Gray/1940-census-partial-Julia-Gray.png)
+
+------------------
+
+## Helen Marie Littlefield (--> Gray) - great-great-grandmother
+born: 16 March 1862, Maine  
+married: ~1884, James Barton Gray Sr. (May 1860 - 1951)  
+died: 1900 (age 38)  
+burial: Ledyard, New London, CT  
+
+### Children
+1. Betsy L. (Sept 1884 - )
+1. Bertha F. (Oct 1885 - )
+1. Alba A. (Dec 1887 - )
+1. Julia A. (Oct 1889 - )
+1. Charles A. (Aug 1892 - )
+1. Fred (June 1897 - )
+
+### Places of residence
+* 1880 - Kittery, York, Maine
+* 1900
+
+
+
+### Records
+
+* 1880 Census
+	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MFQH-BL6) 
+	* [census page 1](4-Littlefield/1880-census-original-Helen-M-Littlefield.jpg) 
+	* [census page 2](4-Littlefield/1880-census-original-p2-Helen-M-Littlefield.jpg)
+
+![1880 Census screenshot page 1](4-Littlefield/1880-census-partial-Helen-M-Littlefield.png)
+![1880 Census screenshot page 2](4-Littlefield/1880-census-p2-partial-Helen-M-Littlefield.png)
+
+* 1900 Census
+	* [FamilySearch link]()
+	* [census page](3-Gray/Julia-Gray-1900-census-original.jpg)
+
+![1900 Census screenshot](3-Gray/1900-census-partial-Julia-Gray.png)
+
+------------------
+
+
+## [Caroline Tibbetts](https://www.familysearch.org/tree/person/details/L4HZ-6BC) (--> Littlefield) - great-great-great-grandmother
 born: March 1837, NH  
 married: Nov 12, 1857 to George W. Littlefield (1838 - )  
 died:  
@@ -90,141 +244,5 @@ In 1920, Caroline (Carolina A.) lived with her daughters Mary (L?) Ayers (56) an
 
 * Mother's birthplace Maine. Father's NH.
 
-## Helen Marie Littlefield (--> Gray)
-born: 16 March 1862, Maine  
-married: ~1884, James Barton Gray Sr. (May 1860 - 1951)  
-died: 1900 (age 38)  
-burial: Ledyard, New London, CT  
-
-
-### Records
-
-* 1880 Census
-	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MFQH-BL6) 
-	* [census page 1](4-Littlefield/1880-census-original-Helen-M-Littlefield.jpg) 
-	* [census page 2](4-Littlefield/1880-census-original-p2-Helen-M-Littlefield.jpg)
-
-![1880 Census screenshot page 1](4-Littlefield/1880-census-partial-Helen-M-Littlefield.png)
-![1880 Census screenshot page 2](4-Littlefield/1880-census-p2-partial-Helen-M-Littlefield.png)
-
-* 1900 Census
-	* [FamilySearch link]()
-	* [census page](3-Gray/Julia-Gray-1900-census-original.jpg)
-
-![1900 Census screenshot](3-Gray/1900-census-partial-Julia-Gray.png)
-
-
-### Children
-1. Betsy L. (Sept 1884 - )
-1. Bertha F. (Oct 1885 - )
-1. Alba A. (Dec 1887 - )
-1. Julia A. (Oct 1889 - )
-1. Charles A. (Aug 1892 - )
-1. Fred (June 1897 - )
-
-### Places of residence
-* 1880 Census - Kittery, York, Maine
-
 
 ### Notes
-
-
-## Julia A. Gray (--> Cook)
-born: 1889  
-married:  
-divorced:  
-died:  
-
-### Children
-1. James F. (1911 - ) 
-1. Arthur G. (1913 - )
-1. Florence E. (1916 - ) 
-1. Helen M. (1918 - )
-1. Ruth A. (1919 - )
-
-
-### Places of residence
-* 1900 -  
-* 1910 - 
-* 1920 - Franklin Town, New London, CT (farm)
-* 1930 - 39 Spruce Street, Norwich Town, Norwich City, New London, CT
-* 1940 - 45 Main Street, Norwich, New London, CT
-
-### Records
-
-* 1900 Census
-	* [FamilySearch link]()
-	* [Census page](3-Gray/Julia-Gray-1900-census-original.jpg)
-
-![1900 Census screenshot](3-Gray/1900-census-partial-Julia-Gray.png)
-
-* 1910 Census
-	* [FamilySearch link]()
-	* [Census page](3-Gray/Julia-Gray-1910-census-original.jpg)
-
-In 1910, Julia lived with her husband Frederick two doors down from her father,
-his new wife Mary, her brothers Charles (17) and Frederick (12), and half-brothers James (6), Calvin (3), and George (2 mo).
-
-![1910 Census screenshot](3-Gray/1910-census-partial-Julia-Gray.png)
-
-* 1920 Census
-	* [FamilySearch link]()
-	* [Census page](3-Gray/Julia-Gray-1920-census-original.jpg)
-
-![1920 Census screenshot](3-Gray/1920-census-partial-Julia-Gray.png)
-
-* 1930 Census
-	* [FamilySearch link]()
-	* [Census page](3-Gray/Julia-Gray-1930-census.jpg)
-
-By 1930, Julia had divorced her husband and was living with their children and another family.
-
-![1930 Census screenshot](3-Gray/1930-census-partial-Julia-Gray.png)
-
-Frederick was living on a farm in Montville Town. Both Julia and Frederick claimed the oldest two sons on their 1930 census. 
-
-	* [FamilySearch link]()
-	* [Census page](/2-Cook/Fredrick-Cook-1930-census.jpg)
-
-![1930 Census screenshot Frederick](/2-Cook/1930-census-partial-Frederick-Cook.png)
-
-* 1940 Census
-	* [FamilySearch link]()
-	* [Census page](3-Gray/Julia-Gray-1940-census.jpg)
-
-In 1940, Julia was living with her oldest son James in what appears to be an apartment complex. Rent was $7.00 per month.
-
-![1940 Census screenshot](3-Gray/1940-census-partial-Julia-Gray.png)
-
-
-## Helen Cook (--> Bina)
-born: 1918  
-married: Aloysius Bina  
-died:  
-
-### Children
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-1. 
-
-### Places of residence
-* 1920 - Franklin Town, New London, CT (farm)
-* 1930 - 39 Spruce Street, Norwich Town, Norwich City, New London, CT
-* 1940 - 
-
-
-## Rosemary Bina (--> Lynch)
-born:   
-married: Gordon Lynch  
-
-### Children
-1. Katherine Anne
-1. Erin Alison
-1. Zachary Adam
-
-### Places of residence
-
