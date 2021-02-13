@@ -63,6 +63,14 @@ In 1900, Caroline (63) was widowed and living with her daughter Ida Dicker (37) 
 
 ![1900 Census screenshot](4-Littlefield/1900-census-partial-Caroline-Littlefield.png)
 
+* 1920 Census
+	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MH8X-5G4)
+	* [census page](5-Tibbetts/Tibbetts-Carolina-1920.png)
+
+In 1920, Caroline (Carolina A.) lived with her daughters Mary (L?) Ayers (56) and Anne Hodgdon (51), both widowed at 21 4th Street, Dover, Strafford, New Hampshire. Carolina's age is listed as 85 and 3/4. Census is dated 9-10 January. 
+
+![1920 Census screenshot](5-Tibbetts/Tibbetts-Carolina-1920-partial.png)
+
 ### Children
 1. Franklin H. 1859 (1880, 21, sailor)  
 1. Annie G. (1860-?) (not in 1880 census, probably married?)
