@@ -92,19 +92,10 @@ as mother of six children, all living. James is still farming, and rents the far
 siblings are at school, except for two year old Fred. Julia can read and write and spent 9 months at 
 school in the previous year (at least that's what was reported). 
 
-Of the 978 residents of Ledyard Town, the vast majority are white
+Of the 1218 residents of Ledyard Town, the vast majority are white (95.3%). Fifty-two (4.3%) are Black. Four are marked as Italian. And one is marked as Indian. Half (25) of the individuals recorded as Black were born in Portugal. Not clear if this is a marker of Afro-Portugese ancestry, or if all Portugese were considered Black. 
 
-1. Iglesator Montario - a Portugese coal shoveler, his wife Domingo(?) and their children John and Rose.
-1. Anton Louares - a Portugese coal shoveler, his wife Maria, and their son Joseph Perry. 
-1. Christian Martin - a Portugese coal shoveler and boarder with the Louares. 
-1. Ten more Portugese coal shovelers and their families (26 people). 
-1. William Thompson - 45 year old farm laborer and boarder, born in NY to parents from NY and NJ.
-1. John W. Robbinson - an illiterate, widowed Black day laborer and boarder, born in Connecticut in 1841 to African parents. 
-1.  Thomas Banks - a 9 year old Black boy servant and student. Parents' birthplaces unknown.
+The majority of residents of Ledyard Town were born in Connecticut (81.4%). Another 138 (11.3%) were born elsewhere in New England (NY, RI, Mass, NJ, NH, Penn, Maryland, Maine). Nine were born elsewhere in the US (Michigan, Iowa, IL, NC, FL, Alabama, Georgia). Thirty-seven (3.0%) were born in Europe, excluding Portugal (Poland, Bohemia, Sweden, Scotland, England, Ireland, Switzerland, Italy, Germany). Twenty-five (2.0%) were born in Portugal. Sixteen (1.5%) were born in Canada (14 marked as French Canadian and 2 English Canadian, 2 have their country of origin listed as New Brunswick, so I guess the enumerator didn't know where New Brunswick was). 
 
-
-The neighborhood in which the Grays lived included neighbors who had emigrated from Scotland, England, 
-Germany, Bohemia, and French Canada, but the majority are from Connecticut or surrounding states. The entire neighborhood is white, 
 
 ![1900 Census screenshot](3-Gray/1900-census-partial-Julia-Gray.png)
 
