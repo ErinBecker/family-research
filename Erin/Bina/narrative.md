@@ -2,8 +2,8 @@
 
 
 ## Rosemary Bina (--> Lynch) - mother
-born: 
-married: Gordon Lynch  
+born:   
+married: Gordon Lynch   
 
 ### Children
 1. Katherine Anne
@@ -15,8 +15,8 @@ married: Gordon Lynch
 ------------------
 
 ## Helen Cook (--> Bina) - grandmother
-born: 1918  
-married: Aloysius Francis Bina (b. Ridgeway, Connecticut)
+born: 1918 (Norwich, CT)
+married: Aloysius Francis Bina (b. Iowa)  
 died:  
 
 ### Children
@@ -24,6 +24,11 @@ died:
 1. 
 1. Margaret Shirley (b. February 2, 1939 in Davenport Iowa [birth record](1-Bina/Margaret-Bina-birth-record.jpg))
 1. 
+1.
+1.
+1.
+1.
+1.
 1. 
 1. Matthew Charles (b. October 4, 1950 in Chisago, Minnesota (record number 1950-MN-040195))
 1. David James (b. February 4, 1952 in Chisago, Minnesota (record number 1952-MN-052009))
@@ -40,14 +45,16 @@ died:
 * 
 
 
-At the time of Margaret's birth, Helen lived at 1814 Central Avenue, Davenport, Iowa. Birth was at Mercy Hospital. Full-term. Aloysius' occupation listed as W.P.A. for past 7 months. Helen listed as housewife. Delivery was spontaneous, at 6am.
+At the time of Margaret's birth, Helen lived at 1814 Central Avenue, Davenport, Iowa. Birth was at Mercy Hospital. Full-term. Aloysius' occupation listed as W.P.A. for past 7 months. WPA (Works Progress Administration or Works Projects Administration) workers carried out public works projects, including construction. Helen listed as housewife. Delivery was spontaneous, at 6am.
 
-[Raymond's death record](1-Bina/Raymond-Bina-death-record.jpg)
+Helen's third youngest child, Raymond, died from a fall while working construction around 10am on October 17th, 1974, at the age of 17. At the time, he was living with wife Cassandra Lee Bina at Kenwood Terrace, B17 in Mora, Minnesota. Raymond had previously served in the Marine Corps. 
+
+* [Raymond's death record](1-Bina/Raymond-Bina-death-record.jpg)
 
 ------------------
 
 ## Julia A. Gray (--> Cook) - great-grandmother
-born: 1889  
+born: October 24, 1889
 married:  
 divorced:  
 died:  
@@ -61,6 +68,7 @@ died:
 
 
 ### Places of residence
+* 1889 - Ledyard, CT
 * 1900 -  
 * 1910 - 
 * 1920 - Franklin Town, New London, CT (farm)
@@ -69,18 +77,44 @@ died:
 
 ### Records
 
+* 1889 birth record
+	* [FamilySearch link](https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9BT-W9PJ-G)
+	* [record page](3-Gray/Julia-Gray-birth-original.jpg)
+
+Julia is the fourth child of Helen and James Gray. She was born October 24th, 1889 in Ledyard, CT. At time of birth, her parents were 29 (James) and 27 (Helen) years old. James was working as a farmer. Recorder appears to have noted doctor's name in the space for mother's occupation. Delivering doctor is something like "Chipman/Chapman & Gray"?
+
 * 1900 Census
-	* [FamilySearch link]()
+	* [FamilySearch link](https://www.familysearch.org/ark:/61903/3:1:S3HY-6D3Q-K1?i=13)
 	* [Census page](3-Gray/Julia-Gray-1900-census-original.jpg)
 
+In 1900, Julia lived with her parents and five siblings in Ledyard Town, New London, CT. Helen is marked
+as mother of six children, all living. James is still farming, and rents the farm. Julia and all of her 
+siblings are at school, except for two year old Fred. Julia can read and write and spent 9 months at 
+school in the previous year (at least that's what was reported). 
+
+Of the 978 residents of Ledyard Town, the vast majority are white
+
+1. Iglesator Montario - a Portugese coal shoveler, his wife Domingo(?) and their children John and Rose.
+1. Anton Louares - a Portugese coal shoveler, his wife Maria, and their son Joseph Perry. 
+1. Christian Martin - a Portugese coal shoveler and boarder with the Louares. 
+1. Ten more Portugese coal shovelers and their families (26 people). 
+1. William Thompson - 45 year old farm laborer and boarder, born in NY to parents from NY and NJ.
+1. John W. Robbinson - an illiterate, widowed Black day laborer and boarder, born in Connecticut in 1841 to African parents. 
+1.  Thomas Banks - a 9 year old Black boy servant and student. Parents' birthplaces unknown.
+
+
+The neighborhood in which the Grays lived included neighbors who had emigrated from Scotland, England, 
+Germany, Bohemia, and French Canada, but the majority are from Connecticut or surrounding states. The entire neighborhood is white, 
+
 ![1900 Census screenshot](3-Gray/1900-census-partial-Julia-Gray.png)
+
+In 1910, Julia was 20 years old and living with her husband Frederick two doors down from her father,
+his new wife Mary, her brothers Charles (17) and Frederick (12), and half-brothers James (6), Calvin (3), and George (2 mo).
 
 * 1910 Census
 	* [FamilySearch link]()
 	* [Census page](3-Gray/Julia-Gray-1910-census-original.jpg)
 
-In 1910, Julia lived with her husband Frederick two doors down from her father,
-his new wife Mary, her brothers Charles (17) and Frederick (12), and half-brothers James (6), Calvin (3), and George (2 mo).
 
 ![1910 Census screenshot](3-Gray/1910-census-partial-Julia-Gray.png)
 
@@ -98,12 +132,12 @@ By 1930, Julia had divorced her husband and was living with their children and a
 
 ![1930 Census screenshot](3-Gray/1930-census-partial-Julia-Gray.png)
 
-Frederick was living on a farm in Montville Town. Both Julia and Frederick claimed the oldest two sons on their 1930 census. 
+Frederick was living on a farm in Montville Town. Both Julia and Frederick claimed the oldest two sons on their 1930 census.  
 
 	* [FamilySearch link]()
 	* [Census page](/2-Cook/Fredrick-Cook-1930-census.jpg)
 
-![1930 Census screenshot Frederick](/2-Cook/1930-census-partial-Frederick-Cook.png)
+![1930 Census screenshot Frederick](2-Cook/1930-census-partial-Frederick-Cook.png)
 
 * 1940 Census
 	* [FamilySearch link]()
@@ -116,7 +150,7 @@ In 1940, Julia was living with her oldest son James in what appears to be an apa
 ------------------
 
 ## Helen Marie Littlefield (--> Gray) - great-great-grandmother
-born: 16 March 1862, Maine  
+born: 16 March 1862, Maine 
 married: ~1884, James Barton Gray Sr. (May 1860 - 1951)  
 died: 1900 (age 38)  
 burial: Ledyard, New London, CT  
@@ -132,8 +166,6 @@ burial: Ledyard, New London, CT
 ### Places of residence
 * 1880 - Kittery, York, Maine
 * 1900
-
-
 
 ### Records
 
