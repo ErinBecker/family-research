@@ -20,8 +20,7 @@ married: Aloysius Francis Bina (b. Iowa)
 died: November 29, 1999 (Pine City, Minnesota)
 
 ### Children
-1.
-1. 
+1. Joan
 1. Margaret Shirley (b. February 2, 1939 in Davenport Iowa [birth record](1-Bina/Margaret-Bina-birth-record.jpg))
 1. 
 1. Thomas Melvin (b. September 29, 1949 in Pine City, MN; d. September 10, 1968 in Quàng Nam, Vietnam)
@@ -41,14 +40,14 @@ died: November 29, 1999 (Pine City, Minnesota)
 ### Places of residence
 * 1920 - Franklin Town, New London, CT (farm)
 * 1930 - 39 Spruce Street, Norwich Town, Norwich City, New London, CT
+* 1935 - San Diego, CA
 * 1940 - 1824 Central Ave, Bettendorf, Scott, Iowa
-*  San Diego, CA
 
 ### Records
 
 At the time of Margaret's birth in 1939, Helen lived at 1814 Central Avenue, Davenport, Iowa. Birth was at Mercy Hospital and was full-term. Aloysius' occupation listed as W.P.A. for past 7 months. WPA (Works Progress Administration or Works Projects Administration) workers carried out public works projects, including construction. Helen listed as housewife. Delivery was spontaneous, at 6am.
 
-In 1940, 
+In 1940, Helen and Aloysius lives with daughters Joan (4) and Margaret (1) at 1824 Central Avenue, Bettendorf, Scott, Iowa. Aloysius had finished high school, while Helen had completed two years of high school. Aloysius was employed as a factory machinist and had worked 16 hours the week of March 24-30. He worked 52 weeks in 1939, and had received $1000 in wages. He worked for a private employer. The median income for a man in 1940 was $956. 
 
 * 1940 Census
 	* [Family search link](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9M1-NZJ)
