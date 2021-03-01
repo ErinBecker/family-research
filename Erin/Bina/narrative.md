@@ -53,7 +53,7 @@ In 1940, Helen and Aloysius lives with daughters Joan (4) and Margaret (1) at 18
 	* [Family search link](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9M1-NZJ)
 	* [Census page](1-Bina/1940-census-Helen-Cook.jpg)
 
-![1940 census screenshot](1-Bina/1940-census-partial-Helen-Cook.png) 
+![1940 census screenshot](1-Bina/1940-census-partial-Helen-Cook.jpg) 
 
 In 1968, Helen's son Thomas Melvin was killed in Vietnam. Arriving in Vietnam 27 June 1968 Thomas was assigned Bravo Company, 1st Battalion, 5th Marine Regiment, 1st Marine Division. Thomas died as a result of gunshot wounds to the body from hostile small arms fire. He was 18 years old. 
 
