@@ -15,16 +15,16 @@ married: Gordon Lynch
 ------------------
 
 ## Helen Cook (--> Bina) - grandmother
-born: 1918 (Norwich, CT)
+born: January 26, 1917 (Norwich, CT)  
 married: Aloysius Francis Bina (b. Iowa)  
-died:  
+died: November 29, 1999 (Pine City, Minnesota)
 
 ### Children
 1.
 1. 
 1. Margaret Shirley (b. February 2, 1939 in Davenport Iowa [birth record](1-Bina/Margaret-Bina-birth-record.jpg))
 1. 
-1.
+1. Thomas Melvin (b. September 29, 1949 in Pine City, MN; d. September 10, 1968 in Quàng Nam, Vietnam)
 1.
 1.
 1.
@@ -41,15 +41,34 @@ died:
 ### Places of residence
 * 1920 - Franklin Town, New London, CT (farm)
 * 1930 - 39 Spruce Street, Norwich Town, Norwich City, New London, CT
-* 1940 - 
-* 
+* 1940 - 1824 Central Ave, Bettendorf, Scott, Iowa
+*  San Diego, CA
 
+### Records
 
-At the time of Margaret's birth, Helen lived at 1814 Central Avenue, Davenport, Iowa. Birth was at Mercy Hospital. Full-term. Aloysius' occupation listed as W.P.A. for past 7 months. WPA (Works Progress Administration or Works Projects Administration) workers carried out public works projects, including construction. Helen listed as housewife. Delivery was spontaneous, at 6am.
+At the time of Margaret's birth in 1939, Helen lived at 1814 Central Avenue, Davenport, Iowa. Birth was at Mercy Hospital and was full-term. Aloysius' occupation listed as W.P.A. for past 7 months. WPA (Works Progress Administration or Works Projects Administration) workers carried out public works projects, including construction. Helen listed as housewife. Delivery was spontaneous, at 6am.
+
+In 1940, 
+
+* 1940 Census
+	* [Family search link](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9M1-NZJ)
+	* [Census page](1-Bina/1940-census-Helen-Cook.jpg)
+
+![1940 census screenshot](1-Bina/1940-census-partial-Helen-Cook.png) 
+
+In 1968, Helen's son Thomas Melvin was killed in Vietnam. Arriving in Vietnam 27 June 1968 Thomas was assigned Bravo Company, 1st Battalion, 5th Marine Regiment, 1st Marine Division. Thomas died as a result of gunshot wounds to the body from hostile small arms fire. He was 18 years old. 
+
+![Thomas Bina in military uniform](1-Bina/Bina-Thomas-photo.jpg)
+
+![Thomas Bina's grave marker](1-Bina/Bina-Thomas-gravestone.jpg)
 
 Helen's third youngest child, Raymond, died from a fall while working construction around 10am on October 17th, 1974, at the age of 17. At the time, he was living with wife Cassandra Lee Bina at Kenwood Terrace, B17 in Mora, Minnesota. Raymond had previously served in the Marine Corps. 
 
 * [Raymond's death record](1-Bina/Raymond-Bina-death-record.jpg)
+
+Helen died November 29th, 1999 in Pine City, Minnesota (record number 1999-MN-034479), aged 82.
+
+![Bina grave marker](1-Bina/Bina-gravestone.jpg)
 
 ------------------
 
