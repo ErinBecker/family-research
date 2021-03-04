@@ -121,20 +121,20 @@ In 1910, Julia was 20 years old and living with her husband Frederick two doors 
 his new wife Mary, her brothers Charles (17) and Frederick (12), and half-brothers James (6), Calvin (3), and George (2 mo).
 
 * 1910 Census
-	* [FamilySearch link]()
+	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MK2R-FLK)
 	* [Census page](3-Gray/Julia-Gray-1910-census-original.jpg)
 
 
 ![1910 Census screenshot](3-Gray/1910-census-partial-Julia-Gray.png)
 
 * 1920 Census
-	* [FamilySearch link]()
+	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:MCNR-97R)
 	* [Census page](3-Gray/Julia-Gray-1920-census-original.jpg)
 
 ![1920 Census screenshot](3-Gray/1920-census-partial-Julia-Gray.png)
 
 * 1930 Census
-	* [FamilySearch link]()
+	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:XM5Y-J39)
 	* [Census page](3-Gray/Julia-Gray-1930-census.jpg)
 
 By 1930, Julia had divorced her husband and was living with their children and another family.
@@ -149,7 +149,7 @@ Frederick was living on a farm in Montville Town. Both Julia and Frederick claim
 ![1930 Census screenshot Frederick](2-Cook/1930-census-partial-Frederick-Cook.png)
 
 * 1940 Census
-	* [FamilySearch link]()
+	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:KWMH-W89)
 	* [Census page](3-Gray/Julia-Gray-1940-census.jpg)
 
 In 1940, Julia was living with her oldest son James in what appears to be an apartment complex. Rent was $7.00 per month.
