@@ -159,7 +159,7 @@ In 1940, Julia was living with her oldest son James in what appears to be an apa
 ------------------
 
 ## Helen Marie Littlefield (--> Gray) - great-great-grandmother
-born: 16 March 1862, Maine 
+born: 16 March 1862, Maine  
 married: ~1884, James Barton Gray Sr. (May 1860 - 1951)  
 died: 1900 (age 38)  
 burial: Ledyard, New London, CT  
@@ -187,7 +187,7 @@ burial: Ledyard, New London, CT
 ![1880 Census screenshot page 2](4-Littlefield/1880-census-p2-partial-Helen-M-Littlefield.png)
 
 * 1900 Census
-	* [FamilySearch link]()
+	* [FamilySearch link](https://www.familysearch.org/ark:/61903/1:1:M976-49F)
 	* [census page](3-Gray/Julia-Gray-1900-census-original.jpg)
 
 ![1900 Census screenshot](3-Gray/1900-census-partial-Julia-Gray.png)
@@ -196,7 +196,7 @@ burial: Ledyard, New London, CT
 
 
 ## [Caroline Tibbetts](https://www.familysearch.org/tree/person/details/L4HZ-6BC) (--> Littlefield) - great-great-great-grandmother
-born: March 1837, NH  
+born: March 1837, NH   
 married: Nov 12, 1857 to George W. Littlefield (1838 - )  
 died:  
 burial:  
@@ -267,18 +267,18 @@ In 1920, Caroline (Carolina A.) lived with her daughters Mary (L?) Ayers (56) an
 ![1920 Census screenshot](5-Tibbetts/Tibbetts-Carolina-1920-partial.png)
 
 ### Children
-1. Franklin H. 1859 (1880, 21, sailor)  
-1. Annie G. (1860-?) (not in 1880 census, probably married?)
-1. Helen M. (1862 - )  
-1. Ida O. (July 1865 - )  (m. Dicker)
-1. Mary A. (1870 - )  
-1. Carrie J. (1874 - ) 
-1. Edeth M. (1876 - ) (?, relationship column in 1880 C. is blank)  
-1. Roland H. (March 1878 - )  
+1. Franklin H. (1859 - )
+1. Annie G. (1860 - 1877) / Anna A
+1. Helen Marie (1862 - 1900)  
+1. Ida Olive (July 1865 - 1901)  (m. Dicker)
+1. Mary Abby (1870 - 1927)  
+1. Caroline E. (Carrie) (1874 - ) 
+1. Edith M. (1876 - ) (?, relationship column in 1880 C. is blank)  
+1. Roland Horn (March 1878 - 1954)  
 
 ## Places of residence
 * 1860 - Town of Wells, York, Maine
-* 1970 - 
+* 1870 - 
 * 1880 - Kittery, York, Maine
 * 1890 - 
 * 1900 - Groton township, New London, CT
