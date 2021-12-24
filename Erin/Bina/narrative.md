@@ -1,23 +1,26 @@
 # Erin's family narrative (Maternal)
 
 
-## Rosemary Bina (--> Lynch) - mother
-born:   
-married: Gordon Lynch   
+## Rosemary Louise Bina (--> Lynch) - mother
+born: October 20, 1958 (Chicago, MN)
+married: Gordon Dean Lynch   
 
 ### Children
-1. Katherine Anne
-1. Erin Alison
-1. Zachary Adam
+1. Katherine Anne (b. 1986)
+1. Erin Alison (b. 1987)
+1. Zachary Adam (b. 1992)
 
 ### Places of residence
+1. 
+
 
 ------------------
+
 
 ## Helen Cook (--> Bina) - grandmother
 born: January 26, 1917 (Norwich, CT)  
 married: Aloysius Francis Bina (b. Iowa)  
-died: November 29, 1999 (Pine City, Minnesota)
+died: November 29, 1999 (Pine City, MN)
 
 ### Children
 1. Joan
@@ -27,8 +30,9 @@ died: November 29, 1999 (Pine City, Minnesota)
 1.
 1.
 1.
-1.
 1. 
+1. 
+1.
 1. Matthew Charles (b. October 4, 1950 in Chisago, Minnesota (record number 1950-MN-040195))
 1. David James (b. February 4, 1952 in Chisago, Minnesota (record number 1952-MN-052009))
 1. Michael John (b. April 24, 1953 in Chisago, Minnesota (record number 1953-MN-033718))
@@ -42,12 +46,23 @@ died: November 29, 1999 (Pine City, Minnesota)
 * 1930 - 39 Spruce Street, Norwich Town, Norwich City, New London, CT
 * 1935 - San Diego, CA
 * 1940 - 1824 Central Ave, Bettendorf, Scott, Iowa
+* 1939 - 1814 Central Ave, Bettendorf, Scott, Iowa
 
 ### Records
 
+#### 1939 - Margaret Bina birth record (second birth)
+
 At the time of Margaret's birth in 1939, Helen lived at 1814 Central Avenue, Davenport, Iowa. Birth was at Mercy Hospital and was full-term. Aloysius' occupation listed as W.P.A. for past 7 months. WPA (Works Progress Administration or Works Projects Administration) workers carried out public works projects, including construction. Helen listed as housewife. Delivery was spontaneous, at 6am.
 
-In 1940, Helen and Aloysius lives with daughters Joan (4) and Margaret (1) at 1824 Central Avenue, Bettendorf, Scott, Iowa. Aloysius had finished high school, while Helen had completed two years of high school. Aloysius was employed as a factory machinist and had worked 16 hours the week of March 24-30. He worked 52 weeks in 1939, and had received $1000 in wages. He worked for a private employer. The median income for a man in 1940 was $956. 
+* Margaret Bina birth record
+	* 
+	* 
+
+![Margaret Bina birth record]()
+
+#### 1940 Census
+
+In 1940, Helen and Aloysius live with daughters Joan (4) and Margaret (1) at 1824 Central Avenue, Bettendorf, Scott, Iowa. Aloysius had finished high school, while Helen had completed two years of high school. Aloysius was employed as a factory machinist and had worked 16 hours the week of March 24-30. He worked 52 weeks in 1939, and had received $1000 in wages. He worked for a private employer. The median income for a man in 1940 was $956. 
 
 * 1940 Census
 	* [Family search link](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9M1-NZJ)
@@ -201,6 +216,26 @@ married: Nov 12, 1857 to George W. Littlefield (1838 - )
 died:  
 burial:  
 
+### Children
+1. Franklin H. (1859 - )
+1. Annie G. (1860 - 1877) / Anna A
+1. Helen Marie (1862 - 1900)  
+1. Ida Olive (July 1865 - 1901)  (m. Dicker)
+1. Mary Abby (1870 - 1927)  
+1. Caroline E. (Carrie) (1874 - ) 
+1. Edith M. (1876 - ) (?, relationship column in 1880 C. is blank)  
+1. Roland Horn (March 1878 - 1954)  
+
+## Places of residence
+* 1860 - Town of Wells, York, Maine
+* 1870 - 
+* 1880 - Kittery, York, Maine
+* 1890 - 
+* 1900 - Groton township, New London, CT
+
+* Mother's birthplace Maine. Father's NH.
+
+
 ### Records
 
 * 1850 Census
@@ -210,7 +245,7 @@ burial:
 	names a daughter Helen M. Also, son Roland H's middle initial is for Horn! 
 	
 	* [Family Search Link](https://www.familysearch.org/ark:/61903/3:1:S3HY-DZZQ-1RH?i=49&cc=1401638&personaUrl=%2Fark%3A%2F61903%2F1%3A1%3AMWZL-BNS)
-	* [census page](5-Tibbetts/Tibbetts-in-Horn-household-1850.png)
+	* [census page](5-Tibbetts/Tibbetts-in-Horn-household-1850.jpg)
 	
 ![Tibbets in Horn household](5-Tibbetts/Tibbetts-in-Horn-household-1850-partial.png)
 
@@ -265,25 +300,6 @@ In 1900, Caroline (63) was widowed and living with her daughter Ida Dicker (37) 
 In 1920, Caroline (Carolina A.) lived with her daughters Mary (L?) Ayers (56) and Anne Hodgdon (51), both widowed at 21 4th Street, Dover, Strafford, New Hampshire. Carolina's age is listed as 85 and 3/4. Census is dated 9-10 January. I'm not sure this is her. Daughters' ages don't match up. This appears to be a different Caroline/a, who was married to a Frederie(?) Tibbetts [1910 census](https://www.familysearch.org/ark:/61903/1:1:MLZX-6PN). 
 
 ![1920 Census screenshot](5-Tibbetts/Tibbetts-Carolina-1920-partial.png)
-
-### Children
-1. Franklin H. (1859 - )
-1. Annie G. (1860 - 1877) / Anna A
-1. Helen Marie (1862 - 1900)  
-1. Ida Olive (July 1865 - 1901)  (m. Dicker)
-1. Mary Abby (1870 - 1927)  
-1. Caroline E. (Carrie) (1874 - ) 
-1. Edith M. (1876 - ) (?, relationship column in 1880 C. is blank)  
-1. Roland Horn (March 1878 - 1954)  
-
-## Places of residence
-* 1860 - Town of Wells, York, Maine
-* 1870 - 
-* 1880 - Kittery, York, Maine
-* 1890 - 
-* 1900 - Groton township, New London, CT
-
-* Mother's birthplace Maine. Father's NH.
 
 
 ### Notes
