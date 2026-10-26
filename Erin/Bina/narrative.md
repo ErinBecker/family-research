@@ -302,4 +302,6 @@ In 1920, Caroline (Carolina A.) lived with her daughters Mary (L?) Ayers (56) an
 ![1920 Census screenshot](5-Tibbetts/Tibbetts-Carolina-1920-partial.png)
 
 
-### Notes
+
+
+
